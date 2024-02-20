@@ -1,4 +1,4 @@
-function night(){
+function night() {
     console.log("clicked");
-    document.body.style.backgroundColor = "black";
+    document.getElementById("buttonTest").style.backgroundColor = orange;
 }
